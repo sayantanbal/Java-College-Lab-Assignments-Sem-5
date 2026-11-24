@@ -1,0 +1,49 @@
+Enter stack size: 
+1. Push
+2. Pop
+3. Peek
+4. Display
+5. Exit
+Enter choice: Enter value: 10 pushed onto the stack.
+
+1. Push
+2. Pop
+3. Peek
+4. Display
+5. Exit
+Enter choice: Enter value: 20 pushed onto the stack.
+
+1. Push
+2. Pop
+3. Peek
+4. Display
+5. Exit
+Enter choice: Stack: 20 10 
+
+1. Push
+2. Pop
+3. Peek
+4. Display
+5. Exit
+Enter choice: Top element: 20
+
+1. Push
+2. Pop
+3. Peek
+4. Display
+5. Exit
+Enter choice: 20 popped from the stack.
+
+1. Push
+2. Pop
+3. Peek
+4. Display
+5. Exit
+Enter choice: Stack: 10 
+
+1. Push
+2. Pop
+3. Peek
+4. Display
+5. Exit
+Enter choice: Exiting...

@@ -1,0 +1,6 @@
+Enter first number: Enter second number: 
+Results:
+Addition: 5
+Subtraction: 5
+Multiplication: 0
+Division Error: Division by zero is not allowed!

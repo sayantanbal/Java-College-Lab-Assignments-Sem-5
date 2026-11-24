@@ -1,0 +1,6 @@
+Enter first number: Enter second number: 
+Results:
+Addition: 16
+Subtraction: 8
+Multiplication: 48
+Division: 3.0

@@ -1,0 +1,1 @@
+Enter rows and cols of 1st matrix: Enter rows and cols of 2nd matrix: Multiplication not possible!

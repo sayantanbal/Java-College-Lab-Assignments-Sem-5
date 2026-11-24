@@ -1,0 +1,5 @@
+Enter rows and cols of 1st matrix: Enter rows and cols of 2nd matrix: Enter 1st matrix elements:
+Enter 2nd matrix elements:
+Result Matrix:
+19 22 
+43 50 

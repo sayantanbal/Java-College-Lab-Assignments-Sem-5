@@ -1,0 +1,4 @@
+How many elements you want to insert: Enter 4 elements:
+Linked List: 10 -> 20 -> 30 -> 40 -> null
+Enter element to delete: After deletion:
+Linked List: 10 -> 30 -> 40 -> null

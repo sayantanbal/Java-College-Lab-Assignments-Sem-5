@@ -1,0 +1,49 @@
+Enter stack size: 
+1. Push
+2. Pop
+3. Peek
+4. Display
+5. Exit
+Enter choice: Stack underflow.
+
+1. Push
+2. Pop
+3. Peek
+4. Display
+5. Exit
+Enter choice: Stack is empty.
+
+1. Push
+2. Pop
+3. Peek
+4. Display
+5. Exit
+Enter choice: Enter value: 7 pushed onto the stack.
+
+1. Push
+2. Pop
+3. Peek
+4. Display
+5. Exit
+Enter choice: Enter value: Stack overflow.
+
+1. Push
+2. Pop
+3. Peek
+4. Display
+5. Exit
+Enter choice: 7 popped from the stack.
+
+1. Push
+2. Pop
+3. Peek
+4. Display
+5. Exit
+Enter choice: Stack underflow.
+
+1. Push
+2. Pop
+3. Peek
+4. Display
+5. Exit
+Enter choice: Exiting...

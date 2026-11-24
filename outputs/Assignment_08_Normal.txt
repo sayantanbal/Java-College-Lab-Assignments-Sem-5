@@ -1,0 +1,42 @@
+
+--- Student Admission System ---
+1. Admit Student
+2. Show Student by ID
+3. Show Students by Section
+4. Exit
+Enter choice: Enter Name: Enter Stream (e.g CSE, ECE): Enter Section (e.g A, B): Student admitted! ID = 101
+
+--- Student Admission System ---
+1. Admit Student
+2. Show Student by ID
+3. Show Students by Section
+4. Exit
+Enter choice: Enter Student ID: ID: 101
+Name: Rahul
+Stream: CSE
+Year: First Year
+Section: A
+Date of Admission: 2026-11-18
+--------------------------
+
+--- Student Admission System ---
+1. Admit Student
+2. Show Student by ID
+3. Show Students by Section
+4. Exit
+Enter choice: Enter Section: 
+Students of Section A:
+ID: 101
+Name: Rahul
+Stream: CSE
+Year: First Year
+Section: A
+Date of Admission: 2026-11-18
+--------------------------
+
+--- Student Admission System ---
+1. Admit Student
+2. Show Student by ID
+3. Show Students by Section
+4. Exit
+Enter choice: Exiting...

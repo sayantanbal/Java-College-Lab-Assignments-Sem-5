@@ -1,0 +1,3 @@
+Enter number of elements: Enter 5 elements: Enter element to search: Linear Search: Found at index 3
+Sorted array for Binary Search: [3, 4, 8, 9, 12]
+Binary Search: Found at index 1

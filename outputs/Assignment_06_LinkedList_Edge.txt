@@ -1,0 +1,4 @@
+How many elements you want to insert: Enter 0 elements:
+List is empty
+Enter element to delete: After deletion:
+List is empty

@@ -1,0 +1,5 @@
+Enter number of nodes: Enter 1 values:
+
+Inorder traversal (Sorted): 42 
+Preorder traversal: 42 
+Postorder traversal: 42 

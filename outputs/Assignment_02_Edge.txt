@@ -1,0 +1,4 @@
+Enter number of elements: Enter 1 elements: 
+Average = -7.0
+Maximum = -7
+Minimum = -7

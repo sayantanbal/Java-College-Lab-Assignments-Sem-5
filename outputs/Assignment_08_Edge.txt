@@ -1,0 +1,23 @@
+
+--- Student Admission System ---
+1. Admit Student
+2. Show Student by ID
+3. Show Students by Section
+4. Exit
+Enter choice: Enter Student ID: No student found with ID 999
+
+--- Student Admission System ---
+1. Admit Student
+2. Show Student by ID
+3. Show Students by Section
+4. Exit
+Enter choice: Enter Section: 
+Students of Section Z:
+No student found in Section Z
+
+--- Student Admission System ---
+1. Admit Student
+2. Show Student by ID
+3. Show Students by Section
+4. Exit
+Enter choice: Exiting...

@@ -1,0 +1,2 @@
+Enter a positive integer: Reversed number: 71
+17 is a Prime number
